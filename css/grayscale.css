@@ -220,6 +220,24 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
+
+#about{
+  padding-top: 100px;
+}
+
+#download{
+  margin-top: 0px;
+  padding-top: 125px;
+}
+#contact{
+  margin-top: 75px;
+  padding-top: 125px;
+}
+
+.col-lg-4{
+  margin-top: 25px;
+}
+
 .download-section {
   width: 100%;
   padding: 50px 0;
